@@ -1,6 +1,6 @@
 {
   "name": "vscode-chatgpt",
-  "publisher": "YOUR_PUBLISHER_NAME",
+  "publisher": "Frank",
   "displayName": "vscode-chatgpt",
   "icon": "images/ai-logo.jpg",
   "description": "vscode-chatgpt",
@@ -526,6 +526,7 @@
   },
   "dependencies": {
     "delay": "^5.0.0",
+    "esbuild-darwin-arm64": "^0.15.18",
     "eventsource-parser": "^0.1.0",
     "gpt3-tokenizer": "^1.1.5",
     "isomorphic-fetch": "^3.0.0",
